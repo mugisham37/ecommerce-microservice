@@ -1,6 +1,0 @@
-packages:
-  - 'client'
-  - 'server'
-  - 'server/services/*'
-  - 'server/shared'
-  - 'server/gateway'
